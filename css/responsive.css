@@ -1,0 +1,328 @@
+
+@media (max-width: 1024px){
+	html{
+		overflow-x: hidden;
+	}
+	.form{
+		margin-top: 60px;
+		top: 20px;
+	}
+	.btns li a{
+		font-size: 10px;
+	}
+	.doctor-data p{
+		font-size: 10px;
+	}
+	.questions .q-slider{
+		margin-right: 0;
+	}
+	.border .rate .reserve{
+		font-size: 13px;
+	}
+	.services ul li a{
+		font-size: 11px;
+	}
+}
+@media (max-width: 768px){
+	html{
+		overflow-x: hidden;
+	}
+	.logo img{
+		margin-right: 25px;
+	}
+	.banner-data p{
+		margin-top: 4px;
+    	margin-right: 10px;
+		font-size: 12px;
+	}
+
+	.form{
+		margin-top: 0!important;
+		display: inline-flex;
+		top: 0!important;
+		padding: 20px;
+	}
+	.form .form-group{
+		margin-left: 10px;
+	}
+	.form .submit{
+		margin-right: 15px;
+		margin-top: 35px!important;
+		width: 100%!important;
+		position: relative;
+    	bottom: 10px;
+	}
+	.border{
+		margin: 10px;
+		height: auto;
+	}
+	.section-wrapper .image img{
+		width: 300px;
+	}
+	.section-wrapper .content h3{
+		font-size: 20px;
+	}
+	.media .rate .reserve{
+		padding: 5px;
+	}
+	.needs .needs-1 p{
+		font-size: 12px;
+	}
+	.needs .needs-1{
+		margin-bottom: 0;
+		margin-top: 0;
+	}
+	.border .rate{
+		text-align: right;
+	}
+	.questions .q-slider{
+		margin-right: 0;
+	}
+}
+@media (max-width: 425px){
+	.btns li a{
+		font-size: 10px;
+		padding: 3px 10px!important;
+	}
+	.navbar-nav li{
+		margin-bottom: 5px;
+	}
+	.form-group label{
+		font-size: 10px;
+	}
+	.border img{
+		width: 80px;
+		border-radius: 10px;
+		padding: 5px;
+	}
+	.border .more{
+		top: -3px;
+		padding: 2px;
+		right: -10px;
+	}
+	.border .rate h3{
+		margin-right: 145px;
+		padding: 0;
+		margin-top: -12px;
+		font-size: 20px;
+	}
+		.services{
+		top: 15px;
+	}
+	.doctor-data .details .p2, .doctor-data .position .p2, .doctor-data .location .p2{
+		margin-right: 5px;
+	}
+	.doctor-data .hint{
+    	height: 30px;
+	}
+	.form{
+		display: inline-block;
+	}
+	.form .form-group{
+		margin-bottom: 0;
+	}
+	.form .form-group input{
+		height: 25px;
+	}
+	.form .submit{
+		margin-top: 5px!important;
+		bottom: 0!important;
+		width: 70%!important;
+	}
+	.banner-data h4{
+		margin-top: -20px;
+	}
+
+	.section-wrapper{
+		padding: 0;
+	}
+	.section-wrapper .content{
+		margin-top: 40px;
+	}
+	.gray-bg .type{
+		margin-bottom: 0;
+	}
+	.navbar-collapse{
+		background: #10502c;
+		border-radius: 5px;
+	}
+	.navbar ul li{
+		background: none;
+		border-radius: 20px;
+	}
+	.navbar ul li a{
+		float: right;
+		color: #fff!important;
+	}
+	.border .rate{
+		text-align: right;
+	}
+	.border .rate .price .discount{
+	text-align: right;
+	}
+		.border .rate .reserve{
+		margin-right: 0;
+	}
+		.services ul{
+		margin-bottom: 15px;
+	}
+	.services ul li{
+		margin-left: 5px;
+		margin-bottom: 5px;
+	}
+}
+
+@media (max-width: 375px){
+	.btns li a{
+		font-size: 9px;
+    	padding: 3px 6px!important;
+	}
+	.rounded-circle{
+		margin-top: -1px;
+    margin-right: -3px;
+		width: 15px;
+    height: 15px;
+	}
+	.services ul li a{
+		font-size: 10px;
+	}
+	.navbar-collapse{
+		background: #10502c;
+		border-radius: 5px;
+	}
+		.services{
+		top: 15px;
+	}
+	.navbar ul li{
+		background: none;
+		border-radius: 20px;
+	}
+	.navbar ul li a{
+		float: right;
+		color: #fff!important;
+	}
+	.border .rate .price .discount{
+	text-align: right;
+	}
+		.border .rate .reserve{
+		margin-right: 0;
+	}
+		.services ul{
+		margin-bottom: 15px;
+	}
+	.services ul li{
+		margin-left: 5px;
+		margin-bottom: 5px;
+	}
+}
+@media (max-width: 320px){
+	.btns li{
+		margin-bottom: 20px;
+		margin-right: -10px;
+	}
+	.btns .name{
+		margin-right: 0px;
+	}
+	.btns li img{
+		width: 30px;
+	}
+	.navbar-nav li{
+		margin-bottom: 5px;
+	}
+	.form{
+		display: grid;
+	}
+	.doctor-data p{
+		font-size: 10px;
+	}
+		.services{
+		top: 15px;
+	}
+	.form .form-group{
+		margin-bottom: 0;
+	}
+	.form .form-group input{
+		height: 25px;
+	}
+	.border img{
+		width: 80px;
+		border-radius: 10px;
+		padding: 5px;
+	}
+	.border .more{
+		top: -3px;
+		padding: 2px;
+		right: -10px;
+	}
+	.border .rate{
+		text-align: right;
+	}
+	.border .rate h3{
+		margin-right: 145px;
+		padding: 0;
+		margin-top: -12px;
+		font-size: 20px;
+	}
+	.media-body .doctor{
+		font-size: 10px;
+    	text-align: right;
+	}
+	.media-body .details .p2, .media-body .position .p2, .media-body .location .p2{
+		margin-right: 5px;
+	}
+	.media-body .hint{
+    	height: 30px;
+	}
+	.media .rate .reserve{
+		position: relative;
+		bottom: 55px;
+		right: 110%;
+		font-size: 12px;
+	}
+
+	.form .submit{
+		margin-top: 5px!important;
+		bottom: 0!important;
+		width: 50%!important;
+	}
+	.banner-data h4{
+		margin-top: -20px;
+	}
+	.border .rate .price .discount{
+		text-align: right;
+	}
+	.border .rate .reserve{
+		margin-right: 0;
+	}
+	.services ul{
+		margin-bottom: 15px;
+	}
+	.services ul li{
+		margin-left: 5px;
+		margin-bottom: 5px;
+	}
+	.section-wrapper{
+		padding: 0;
+	}
+	.section-wrapper .content{
+		margin-top: 40px;
+	}
+	.gray-bg .type{
+		margin-bottom: 0;
+	}
+	.questions .q-slider{
+		margin-right: 0;
+	}
+	.navbar-collapse{
+		background: #10502c;
+		border-radius: 5px;
+	}
+	.navbar ul li{
+		background: none;
+		border-radius: 20px;
+	}
+	.navbar ul li a{
+		float: right;
+		color: #fff!important;
+	}
+}
